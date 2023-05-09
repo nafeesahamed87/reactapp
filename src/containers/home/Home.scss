@@ -1,0 +1,63 @@
+.homeContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-height: 100vh;
+}
+.search {
+    margin-top: -5px;
+}
+.homeHeader {
+    font-size: 32px;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.homeDescription {
+    font-size: 18px;
+    color: #555;
+    text-align: center;
+}
+.roundAnimation {
+    animation: round 4s ease-in-out infinite;
+}
+
+@keyframes round {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.input-group-text {
+    margin-top: 0;
+    background-color: blue;
+    padding: 30px;
+}
+
+.custom_button {
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+.notification {
+    position: relative;
+}
+
+.notification:hover {
+    background: red;
+}
+
+.notification .badge {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    border-radius: 100%;
+    background-color: rgb(174, 211, 239);
+    color: rgb(59, 97, 174);
+}

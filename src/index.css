@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;400;600&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    overflow: hidden;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+/* .table-responsive {
+    max-height: 70vh;
+    min-height: 70vh !important;
+    height: 70vh !important;
+} */
+
+.custom-button-do {
+    background-color: rgb(73, 151, 73);
+    border-color: #fff;
+    margin-top: 10px;
+}

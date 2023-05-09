@@ -1,0 +1,43 @@
+#brandpre {
+    color: rgb(34, 194, 34) !important;
+}
+.amenu-1 {
+    /* color: hsl(120, 70%, 45%) !important; */
+    /* color: '#b80707' !important; */
+    /* color: rgb(184, 7, 7) !important; */
+    color: rgb(10, 62, 107) !important;
+}
+
+.amenu-2 {
+    /* color: rgb(29, 107, 10) !important; */
+    color: rgb(10, 62, 107) !important;
+}
+
+.amenu-3 {
+    color: rgb(10, 62, 107) !important;
+}
+.amenu-4 {
+    /* color: rgb(62, 10, 107) !important; */
+    /* color: rgb(184, 7, 7) !important; */
+    color: rgb(10, 62, 107) !important;
+}
+
+.validation-msg {
+    color: #ed1313;
+}
+/* .menu1 {
+    margin-right: 10px !important;
+}
+
+.menu2 {
+    margin-right: 10px;
+    
+}
+.menu3 {
+    margin-right: 10px;
+    
+}
+.menu4 {
+    margin-right: 10px;
+    
+} */
